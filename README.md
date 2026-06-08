@@ -93,7 +93,7 @@ purposes as part of CSP451 coursework at Seneca College.
 ```
 MIT License
 
-Copyright (c) 2026 [Your Full Name]
+Copyright (c) 2026 Md jahidul islam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
